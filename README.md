@@ -114,7 +114,6 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 
 ## O que NÃO será avaliado :warning:
 
--   Fluxo de cadastro de usuários e lojistas
 -   Frontend (só avaliaremos a (API Restful)[https://www.devmedia.com.br/rest-tutorial/28912])
 -   Autenticação
 
